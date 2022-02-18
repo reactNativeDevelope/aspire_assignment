@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Assignment.iml" filepath="$PROJECT_DIR$/.idea/modules/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Assignment.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Assignment.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/578510999/Assignment.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/578510999/Assignment.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2010669988/Assignment.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/2010669988/Assignment.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1664346186/Assignment.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1664346186/Assignment.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1646427144/Assignment.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1646427144/Assignment.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/169943821/Assignment.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/169943821/Assignment.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2089975963/Assignment.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-2089975963/Assignment.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
